@@ -7,7 +7,7 @@
 
 ## Sample Output
 
-[output](img/drivemappingoutput.png)
+![output](img/drive-mapping-output.png)
 
 ## Get-Disk
-[output](img/get-disk-output.png)
+![output](img/get-disk-output.png)
