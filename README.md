@@ -9,5 +9,5 @@
 
 ![output](img/drive-mapping-output.png)
 
-## Get-Disk
+## Powershell native Get-Disk Command
 ![output](img/get-disk-output.png)
